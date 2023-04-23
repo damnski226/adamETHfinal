@@ -44,3 +44,11 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "damski.sol" contract from the dropdown menu, and then click on the "Deploy" button.
 
 Once the contract is deployed, you can interact with it by calling the mint function. Click on the "damski" contract in the left-hand sidebar, and then click on the "mint" function, click on the "add" button but copy first the address of the account and paste it back on the add function. Finally, click the "val" and enter the amount and "transact" to execute the function and retrieve the token.
+
+## Authors
+
+Discord: damnski#6286
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
